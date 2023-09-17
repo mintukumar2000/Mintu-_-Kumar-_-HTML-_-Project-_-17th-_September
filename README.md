@@ -20,3 +20,4 @@ Advantage-
 i have used the css variable for storing color code.
 
 Hope you will like this idea ! Please share your feedback and also give some tips so that i can make this more optimized. Thank you
+Mintu Kumar
